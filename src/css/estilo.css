@@ -86,3 +86,19 @@ nav a:hover{
 .card h3{
     margin-bottom: 15px;
 }
+table{
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid #38bdf8;
+    padding: 15px;
+    text-align: center;
+}
+
+th{
+    background-color: #38bdf8;
+    color: black;
+}
